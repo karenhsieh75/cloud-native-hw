@@ -1,5 +1,5 @@
 ---
-name: 功能請求
+name: Feature Request
 about: 建議新增一項功能
 title: "[FEATURE] "
 labels: enhancement
