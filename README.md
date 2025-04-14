@@ -19,6 +19,6 @@
 
 ## GitHub Actions
 
-- `main.yml` 包含基本 CI 流程及自定義步驟（如 echo、列出檔案）
+- `main.yml` 包含基本 CI 流程及自定義步驟
 - `hw-p` 的 PR 會成功執行
 - `hw-f` 的 PR 會觸發失敗以測試錯誤處理
