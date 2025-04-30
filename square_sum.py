@@ -1,4 +1,4 @@
-def square_sum(nums):
+def square_sum(nums)
     return sum(x ** 2 for x in nums)
 
 if __name__ == "__main__":
